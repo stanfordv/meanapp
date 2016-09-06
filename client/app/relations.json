@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    {"id": "Uni1", "group": 1},
+    {"id": "Uni2", "group": 1},
+    {"id": "Uni3", "group": 2},
+    {"id": "Uni4", "group": 2},
+    {"id": "Uni5", "group": 3}
+    
+  ],
+  "links": [
+    {"source": "Uni1", "target": "Uni2", "value": 1},
+    {"source": "Uni3", "target": "Uni4", "value": 8},
+    {"source": "Uni5", "target": "Uni1", "value": 3},
+    {"source": "Uni5", "target": "Uni2", "value": 4},
+    {"source": "Uni2", "target": "Uni3", "value": 5},
+    {"source": "Uni5", "target": "Uni1", "value": 3}
+  ]
+}

@@ -8,3 +8,6 @@ Mean application to be used as template for a consensus based mindmap
 <p/>From new terminal 4th instance - inside client folder: grunt serve
 <p/>
 <p/>Open a chrome browser and goto localhost:9000 To see it work, Click Movies tab and add, edit, view and delete movies
+
+
+Test change
